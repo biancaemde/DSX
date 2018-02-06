@@ -50,11 +50,11 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 
 7. Open the e-mail and click on Confirm Account.
 
- >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Gmail2.png"/>
+ >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Gmail%202.png"/>
 
 8. Go back to the DSX session, and enter your DSX user id (e-mail account) and click Continue. Or, skip to step 10 if the system automatically logs you in. 
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Sign%20Into%20IBM.png"/>
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Sign%20into%20IBM.png"/>
 
 9.  Enter your password and click Sign in.
 
