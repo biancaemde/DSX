@@ -81,12 +81,47 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 
 2. If you just signed up, you will not have any projects. Click on the New project button. 
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/View%20All%20Projects.png"/>
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/ClickNewProject.png"/>
 
-3. Type a name for your project. For instance, "DSX Lab". A Spark service and an object storage will be automatically selected as well as a container with a default name. A container is a directory on the object storage. Click on Create.
+3. Type a name for your project. For instance, "DSX Labs" and optionally a Description.  You will need to assign Object Storage.  Press on the Add link in the Object Storage section below. 
 
- > You are now in your new project where you can create notebooks and data assets as well as add collaborators.
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/New%20Project.png"/>
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/create-project.png?raw=true" width="512" height="499" />
+4. Select the Lite Plan and press Create. 
+
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/SelectLiteObjectPlan.png"/>
+
+5. Press Confirm
+
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/ConfirmLiteObjectPlan.png"/>
+
+6. Go back to the New Project page, and click Refresh in the Object Storage section. 
+
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Hit%20Refresh%20for%20Object%20Storage.png"/>
+
+7. Now create a Spark Service.  Press the Add link in the Spark section. 
+
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Add%20Spark%20Service.png"
+
+8. Select the Lite Plan and click Create. 
+
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/SelectLiteSparkPlan.png"
+
+9. Press Confirm
+
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/ConfirmLiteSparkPlan.png"
+
+10. Go back to the New Project page, and click Refresh in the Spark service section. 
+
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Hit%20Refresh%20for%20Spark%20Service.png"
+
+11. Click Create. 
+
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Hit%20Create%20for%20New%20Project.png"
+
+12. The project overview page appears. You are now in your new project where you can create notebooks, add data assets, and add collaborators. 
+
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Project%20Overview.png"
+ 
 
 You are now ready to begin [Lab-1](Lab-1/).
