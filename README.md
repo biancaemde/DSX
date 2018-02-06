@@ -36,27 +36,42 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 
 > <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Try%20Watson%20Data%20Platform.png" width="624" height="300">
 
-4. You should get an email from "ibmacct@us.ibm.com" with your IBMid Confirmation code
+4. On the next page, fill in the corresponding fields and click Create Account
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/confirmation-code.png?raw=true" width="624" height="300">
+ >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Try%20IBM%20Cloud.png" width="624" height="300">
 
-5. Then, on the next page fill in the corresponding fields and click CREATE ACCOUNT
+5. You will see the following screen. You need to go to your e-mail account to complete the sign up process.
 
- > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/Enter.png" width="624" height="300"/>
+ > <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Thanks.png" width="624" height="300"/>
 
-6. In the new page, write your email and click CONTINUE
+6. In your e-mail inbox, there should be a message from The Bluemix Team.
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/enter-email.png?raw=true"/>
+ >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Gmail.png"/>
 
-7. Write your recently generated password and click on SIGN IN
+7. Open the e-mail and click on Confirm Account.
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/enter-password.png?raw=true"/>
+ >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Gmail2.png"/>
 
-8. It will take a minute to create your account. When ready, click on Get Started.
+8. Go back to the DSX session, and enter your DSX user id (e-mail account) and click Continue. Or, skip to step 10 if the system automatically logs you in. 
 
- > You are now in the Data Science Experience landing page. Your environment is automatically set up with one Apache Spark instance and 5 GB of object storage. From here you can explore any of the tutorials, videos, sample notebooks, totorials or articles in the community.
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Sign%20Into%20IBM.png"/>
 
->  <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/images/landing.png"/>
+9.  Enter your password and click Sign in.
+
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Enter%20Password.png"/>
+
+10. Select the IBM Cloud Account (IBM), select the organization (your e-mail), and then select the space (dev) and click Continue.
+
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Select%20Organization.png"/>
+
+11. It may take several minutes to set up the account. You will see several screens pop-up (e.g. Registering User, Initializing Environment). Wait until you see the following screen and then click on Get Started.
+
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Done.png"/>
+
+
+ > You are now in the Data Science Experience landing page. From here you can explore any of the tutorials, videos, sample notebooks, tutorials or articles in the community.
+
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Welcome.png"/>
 
 ### Step 2. Create a project
 
