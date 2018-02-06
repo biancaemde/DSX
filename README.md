@@ -79,9 +79,9 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 
 >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/View%20All%20Projects.png"/>
 
-2. Click on the create project icon on the top right of the project list.
+2. If you just signed up, you will not have any projects. Click on the New project button. 
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/create-new-project.png?raw=true" />
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/View%20All%20Projects.png"/>
 
 3. Type a name for your project. For instance, "DSX Lab". A Spark service and an object storage will be automatically selected as well as a container with a default name. A container is a directory on the object storage. Click on Create.
 
