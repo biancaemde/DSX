@@ -75,9 +75,9 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 
 ### Step 2. Create a project
 
-1. Click on Projects > View All Projects to see a list of your projects. You should only see a default project.
+1. Click on Projects > View All Projects to see a list of your projects. 
 
- >  <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/images/my-projects.png"/>
+>  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/View%20All%20Projects.png"/>
 
 2. Click on the create project icon on the top right of the project list.
 
