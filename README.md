@@ -32,9 +32,9 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 
 > <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Sign%20Up%20Image.png" width="624" height="300">
 
-3. Enter your email and press Continue. Note: If you already have an IBM id you can click Sign in with your IBM id -- if you don't have a DSX account one will be created for you.
+3. Enter your email, click to accept the terms, and click Next. Note: If you already have an IBM id you can click Sign in with your IBM id -- if you don't have a DSX account one will be created for you.
 
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/Enter%20Email.png" width="624" height="300">
+> <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Try%20Watson%20Data%20Platform.png" width="624" height="300">
 
 4. You should get an email from "ibmacct@us.ibm.com" with your IBMid Confirmation code
 
