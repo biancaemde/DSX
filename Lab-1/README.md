@@ -29,7 +29,7 @@ Upon completing the lab, you will know how to:
 
 ### Step 3.  Create the notebook.
 
-> <img src="https://raw.githubusercontent.com/jpatter/DSX/master/Lab-1/images/DSX-create-notebook-from-url.png"/>
+> <img src="https://github.com/bleonardb3/DSX/blob/master/Lab-1/images/Lab1ReadmeNewNotebook.png"/>
 
 1. Click the `From URL` tab under `Create Notebook`.
 1. Give the notebook a name in the `Name` field, for example `Connect and Interact with DB2 Warehouse` and optionally you can give it a description.
