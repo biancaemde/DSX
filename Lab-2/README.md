@@ -31,7 +31,7 @@ Upon completing the lab, you will know how to:
 
 ### Step 4.  Give the notebook a name in the `Name` field, for example `Machine learning with SparkML` and optionally you can give it a description.
 
-### Step 5.  In the Notebook URL field, use `https://github.com/jpatter/DSX/blob/master/Lab-2/Categorizing-Vetted-Data.ipynb`
+### Step 5.  In the Notebook URL field, use `https://github.com/bleonardb3/DSX/blob/master/Lab-2/Categorizing-Vetted-Data.ipynb`
 
 <img src="https://raw.githubusercontent.com/jpatter/DSX/master/Lab-1/images/CategorizingVettedDataNewNotebook.PNG"/>
 
