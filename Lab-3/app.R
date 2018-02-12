@@ -101,7 +101,7 @@ shinyApp(
       data = {
          df <- idaQuery(
             paste0(
-            'SELECT * FROM ', vetting.table, ' T1 LEFT JOIN ', vetting.table, '_ML_RESULTS T2 USING (UUID)',
+            'SELECT * FROM ', vetting.table, ' T1 INNER JOIN ', vetting.table, '_ML_RESULTS T2 USING (UUID)',
             ' ORDER BY VETTING_LEVEL, NAME'
           )
         )
@@ -125,6 +125,7 @@ shinyApp(
         '\nBirth Country: ', df$BIRTH_COUNTRY[[selected]],
         '\nPassport Country: ', df$PASSPORT_COUNTRY[[selected]],
         '\nOccupation: ', df$OCCUPATION[[selected]],
+        '\nOccupation Category: ', df$Category[[selected]],
         '\nCountries Visited: ', df$COUNTRIES_VISITED_COUNT[[selected]], ' (', df$COUNTRIES_VISITED[[selected]], ')',
         '\nCurrent Vetting: ', category.as.string(df$VETTING_LEVEL[[selected]]),
         '\nVetting Prediction: ', category.as.string(df$predCategory[[selected]])
