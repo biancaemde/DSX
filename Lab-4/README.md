@@ -25,7 +25,7 @@ Upon completing the lab, you will:
 
 ### Step 1.  Please click on the link below and then press the `Download` button to download the instructions to your machine.
 
-[Instructions](https://github.com/jpatter/DSX/blob/master/Lab-4/WatsonMachineLearning.pdf). 
+[Instructions](https://github.com/bleonardb3/DSX/blob/master/Lab-4/WatsonMachineLearning.pdf). 
 
 ## DSX SPSS Modeler Lab (4b)
 
@@ -47,5 +47,5 @@ Upon completing the lab, you will:
 
 ### Step 1.  Please click on the link below and then press the `Download` button to download the instructions to your machine.
 
-[Instructions](https://github.com/jpatter/DSX/blob/master/Lab-4/titanic-spss-modeler.pdf). 
+[Instructions](https://github.com/bleonardb3/DSX/blob/master/Lab-4/titanic-spss-modeler 1.4.pdf). 
 
